@@ -2,7 +2,7 @@
 draw_bold_text_with_bright_colors = true
 
 [font]
-size = 12
+size = 16
 
 [window]
-opacity = 0.8
+opacity = 0.9
